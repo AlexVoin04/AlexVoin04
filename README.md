@@ -3,16 +3,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=IT+student+from+Russia)](https://git.io/typing-svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexVoin04&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexVoin04&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexVoin04&theme=solarized_dark)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexVoin04&theme=solarized_dark)
 
 <!--
 **AlexVoin04/AlexVoin04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
