@@ -8,7 +8,7 @@
 </p>
 
 <div style="display: flex; align-items: center;">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTkxMXZvZ2Jpcmplcnd4Y2phMWFxdGMwYjAwMzIxN3kyOGwzMGM5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jzuSsejVh8EYRfdOTz/giphy.gif" width="200" style="margin-right: 20px;" />
+
   <div>
     <h2>My education:</h2>
     <ul>
@@ -16,10 +16,13 @@
       <li>Higher education 09.03.02 Information systems and technologies</li>
     </ul>
   </div>
+
+  <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTkxMXZvZ2Jpcmplcnd4Y2phMWFxdGMwYjAwMzIxN3kyOGwzMGM5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jzuSsejVh8EYRfdOTz/giphy.gif" width="200" style="margin-left: 20px;" />
+
 </div>
 
 <div style="text-align: center;">
-  <h3>My tech stack</h3>
+  <h2>My tech stack</h2>
   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -38,6 +41,9 @@
 </div>
 
 <div align="center">
+
+  <h2>My stats</h2>
+
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexVoin04&theme=solarized_dark)
 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexVoin04&theme=solarized_dark)
