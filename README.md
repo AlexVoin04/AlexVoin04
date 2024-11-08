@@ -15,9 +15,10 @@
       <li>Secondary vocational in the specialty 09.02.07 Information systems and programming</li>
       <li>Higher education 09.03.02 Information systems and technologies</li>
     </ul>
+    <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTkxMXZvZ2Jpcmplcnd4Y2phMWFxdGMwYjAwMzIxN3kyOGwzMGM5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jzuSsejVh8EYRfdOTz/giphy.gif" width="200" style="margin-left: 20px;" />
   </div>
 
-  <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTkxMXZvZ2Jpcmplcnd4Y2phMWFxdGMwYjAwMzIxN3kyOGwzMGM5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jzuSsejVh8EYRfdOTz/giphy.gif" width="200" style="margin-left: 20px;" />
+  
 
 </div>
 
