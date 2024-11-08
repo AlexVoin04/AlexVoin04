@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi there, I'm <a target="_blank">Alex</a>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2s0am42cWJjdjYxc3pmdTg4ZTE5aW4xcXp5cTN2dGp0dHhycTB0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bx3Cvt88j7PtM4SOaS/giphy.gif" width="32" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2s0am42cWJjdjYxc3pmdTg4ZTE5aW4xcXp5cTN2dGp0dHhycTB0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bx3Cvt88j7PtM4SOaS/giphy.gif" width="50" />
 </h1>
 
 <p align="center">
@@ -40,14 +40,19 @@
   </div>  
 </div>
 
-<div align="center">
+<div style="text-align: center; style="margin-top: 20px;">
 
   <h2>My stats</h2>
 
+  <div align="center">
+  
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexVoin04&theme=solarized_dark)
 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexVoin04&theme=solarized_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexVoin04&theme=solarized_dark)  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexVoin04&theme=solarized_dark) 
+  </div>
+
+  
 </div>
 
 <!--
