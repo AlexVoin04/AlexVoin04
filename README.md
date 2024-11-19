@@ -12,8 +12,8 @@
   <div>
     <h2>My education:</h2>
     <ul>
-      <li>Secondary vocational in the specialty 09.02.07 Information systems and programming</li>
-      <li>Higher education 09.03.02 Information systems and technologies</li>
+      <li>Secondary vocational education in the specialty 09.02.07 Information systems and programming</li>
+      <li>Higher education in the specialty 09.03.02 Information systems and technologies</li>
     </ul>
     <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTkxMXZvZ2Jpcmplcnd4Y2phMWFxdGMwYjAwMzIxN3kyOGwzMGM5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jzuSsejVh8EYRfdOTz/giphy.gif" width="200" style="margin-left: 20px;" />
   </div>
@@ -25,21 +25,25 @@
 <div style="text-align: center;">
   <h2>My tech stack</h2>
   <div align="center">
-    <a href="https://www.java.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;</a>  
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;</a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-    <img href="https://www.mysql.com/" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <a href="https://www.java.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;</a> 
+    <a href="https://spring.io/projects/spring-framework" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;</a>
+    <a href="https://hadoop.apache.org"><img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original-wordmark.svg" title="Hadoop" alt="Hadoop" width="40" height="40"/>&nbsp;</a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" **alt="CSharp" width="40" height="40"/></a>
     <a href="https://dotnet.microsoft.com/download" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core"  width="40" height="40" /></a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android-Studio" **alt="Android-Studio" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="M Sql Server" **alt="M Sql Server" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgre SQL" **alt="Postgre SQL" width="40" height="40"/>
-    
+    <a href="https://www.python.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python"  width="40" height="40" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;</a>
+    <a href="https://tailwindcss.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;</a>
+    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;</a>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <a href="https://git-scm.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></a>
+    <a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI"  width="40" height="40" /></a>
+    <a href="https://www.docker.com/get-started/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker"  width="40" height="40" /></a>
+    <a href="https://developer.android.com/studio?hl=ru" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Android-Studio"  width="40" height="40" /></a>
+    <a href="https://firebase.google.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase"  width="40" height="40" /></a>
+    <a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"  width="40" height="40" /></a>
+    <a href="https://www.microsoft.com/ru-ru/sql-server" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="M Sql Server"  width="40" height="40" /></a>
+    <a href="https://www.postgresql.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="Postgre SQL"  width="40" height="40" /></a>
+    <a href="https://www.sqlite.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite"  width="40" height="40" /></a>
   </div>  
 </div>
 
